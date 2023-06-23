@@ -1,0 +1,19 @@
+.container { 
+    margin-top: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.form-div{ 
+    width: 400px; 
+    padding: 30px; 
+    border-radius: 10px;
+
+  box-shadow: 1px 8px 15px 0px rgba(0, 0, 0, 44); 
+}
+
+.alert { 
+    text-align: center;
+    margin-top: 20px; 
+
+}
